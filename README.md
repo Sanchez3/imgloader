@@ -7,7 +7,7 @@
 	"0.2.0":增加音频/视频文件的加载
 	"0.2.1":增加 CMD,AMD 引用
 	"0.2.2":修复 音频/视频文件 replay时 触发imgLoaded事件的BUG
-
+	"0.2.3":修复 BUG 在移动端H5中暂不能监控 音频/视频文件 加载，暂移除
 # function ImgLoader(property,options){...}
 
 # 参数说明
